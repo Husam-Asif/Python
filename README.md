@@ -1,7 +1,7 @@
 # Python
 # 🐍 Data Technician Workbook – Week 6
 
-![Python Logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36" height="36" alt="Python Logo"/>
 
 This repository contains my completed **Week 6 Workbook** as part of the Data Technician course. The week focused heavily on **Python programming**, **Pandas**, and **exploratory data analysis (EDA)** using GDP per capita data.
 
