@@ -18,16 +18,6 @@ This workbook is centered on using Python for data exploration, cleaning, visual
 ### 🔹 Day 2: Task 1 – Python FizzBuzz
 Implemented a classic coding challenge using Python:
 
-```python
-for i in range(1, 101):
-    if i % 15 == 0:
-        print("fizzbuzz")
-    elif i % 3 == 0:
-        print("fizz")
-    elif i % 5 == 0:
-        print("buzz")
-    else:
-        print(i)
 🔹 Day 3: Task 1 – Student CSV Analysis with Pandas
 🧪 Exercise 1: Loading and Exploring Data
 Loaded data with pd.read_csv()
